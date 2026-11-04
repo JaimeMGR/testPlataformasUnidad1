@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6940cdda447048efa58605bd546f9920, type: 3}
+  m_Name: gifmake_com_1792931904759_570
+  m_EditorClassIdentifier: GifForUnity::GifImporter.Gif
+  Frames:
+  - DelayInMs: 150
+    Sprite: {fileID: 21300000, guid: d0e5a53f73f6eca48845c4fce05620ff, type: 3}
+  - DelayInMs: 150
+    Sprite: {fileID: 21300000, guid: 141f1c0d19ecfe742bccf30707efe2e4, type: 3}
+  - DelayInMs: 150
+    Sprite: {fileID: 21300000, guid: 85d287a442f9bcf4a9afe804dbbfdda7, type: 3}
+  - DelayInMs: 150
+    Sprite: {fileID: 21300000, guid: fa9928a804a97c34da5d4b9663cfa966, type: 3}
+  - DelayInMs: 150
+    Sprite: {fileID: 21300000, guid: 608c82ac98f8619468c3739300164b5a, type: 3}
